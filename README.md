@@ -12,10 +12,10 @@ A two-day, instructor-led, hands-on learning experience that takes you from the 
   5. Manipulating data with pandas
   6. Azure ML data preparation
   7. `matplotlib` and `seaborn` for data visualisation
-  8. Building machine learning models with sklearn
-  9. Interactive dashboards with `dash`
+  8. Building machine learning models with `sklearn`
+  9. Interactive dashboards with `dash` and `plotly`
   10. Machine learning with Azure ML
   12. Deploying your models
-  13. Model management and monitoring
+  13. Managing and monitoring your models
   
 **Note:** Crib strongly off the R course for data science for last year.
