@@ -5,13 +5,13 @@ A two-day, instructor-led, hands-on learning experience that takes you from the 
 
 ## Course outline
 
-  1. Jupyter notebooks and Azure notebooks
-  2. Python language fundamentals
+  1. Python language fundamentals
+  2. Jupyter notebooks and Azure notebooks
   3. Lists, sets and dictionaries
   4. Loops, conditions, functions, objects and classes
   5. Manipulating data with pandas
   6. Azure ML data preparation
-  7. `matplotlib` and `seabor`n for data visualisation
+  7. `matplotlib` and `seaborn` for data visualisation
   8. Building machine learning models with sklearn
   9. Interactive dashboards with `dash`
   10. Machine learning with Azure ML
